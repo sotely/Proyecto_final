@@ -1,4 +1,4 @@
 # Proyecto_final
 private int codigo;
 private String nombre;
-chupalo soto entonces;
+era mentira sotito Te mando un besito;
